@@ -1,2 +1,2 @@
 print("fkfvjsevsihos")
-print("githasfduhli;dl;gd")
+print(123)
